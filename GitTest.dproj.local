@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.042,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.311,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\DelphiProjects\WorksGenel\gitporjesi\Deneme.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\DelphiProjects\WorksGenel\gitporjesi\main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\DelphiProjects\WorksGenel\gitporjesi\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.973,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.05.06 07:03:13.191,E:\DelphiProjects\WorksGenel\gitprojesi\GitTest.dproj=E:\DelphiProjects\WorksGenel\gitprojesi\Deneme.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
